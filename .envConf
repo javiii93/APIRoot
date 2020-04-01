@@ -1,0 +1,8 @@
+NODE_ENV=
+PORT=
+JWT_KEY=
+TOKEN_SECRET=
+MONGODB_URL=
+# Set your database/API connection information here
+# API_KEY=**************************
+API_URL=

@@ -1,0 +1,31 @@
+{
+  "name": "ams2rootapi",
+  "version": "1.0.0",
+  "description": "Intercruiser Project AMS2 ROOT API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pujol, Vaquers, Linde",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.0.1",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-simple": "^0.5.6",
+    "method-override": "^3.0.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.4",
+    "mongoose": "^5.9.4",
+    "mongoose-pagination": "^1.0.0",
+    "morgan": "^1.9.1",
+    "validator": "^12.2.0"
+  }
+}
